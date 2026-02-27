@@ -63,7 +63,7 @@ while calculator_on:
         
     elif choice == '2':
         # Start fresh
-        print(f"The result is {result} \n")
+        print(f"The result is {result}. \n")
         print("New calculation")
         result = None  # Reset result so next iteration asks for first number
         
